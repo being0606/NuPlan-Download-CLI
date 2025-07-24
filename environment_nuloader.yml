@@ -1,4 +1,4 @@
-name: fun
+name: nuloader
 channels:
   - conda-forge
 dependencies:
